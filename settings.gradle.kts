@@ -1,2 +1,2 @@
 
-rootProject.name = "demo-pkg"
+rootProject.name = "devcontainer"
